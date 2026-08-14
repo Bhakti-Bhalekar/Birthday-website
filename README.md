@@ -1,2 +1,2 @@
 # Birthday-website
-This is a Birthday website
+This is a Birthday website.
